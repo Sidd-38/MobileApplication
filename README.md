@@ -1,4 +1,4 @@
-Step 1 : Sign in google account in both android studio and firebase
+Step 1 : Sign in google account in both android studio and firebase...minimum sdk either 34 or 35...if not available then we can change in graddle(app) then sync
 
 Step 2 : In firebase, create a project then select the android button(centre one) to create the app
 
