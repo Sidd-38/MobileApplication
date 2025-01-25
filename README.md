@@ -16,6 +16,8 @@ Step 8 : Then querying in chatpt with "version of android studio, code for jetpa
 
 Step 9 : Hammer symol build kuduthutu aprm run kuduthukalam
 
+Step 10 : In firebase u can show the registered users in aunthentication user section
+
 Avolthn....imp points now
 
 *1st line eppome vitutu copy pannikanum
